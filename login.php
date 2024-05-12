@@ -31,7 +31,7 @@ function login()
 
         $dbservername = "localhost";
         $dbusername = "root";
-        $dbpassword = "claumestra";
+        $dbpassword = "04112002Aa";
         $dbname = "weatherapp";
 
         $conn = new mysqli($dbservername, $dbusername, $dbpassword, $dbname);
